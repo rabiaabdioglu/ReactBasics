@@ -1,17 +1,14 @@
 - [React Basics](#react-basics)
-  - [React Fundamentals](#react-basics)
-    - [Creating Your First Component](#react-basics)
-    - [JSX and basic component structure](#react-basics)
-    - [Using Components Inside Components](#react-basics)
-  - [Props and State Usage](#react-basics)
-    - [Communicating data with Props](#react-basics)
-    - [Managing and updating State](#react-basics)
-    - [Event Handling and State Management](#react-basics)
-  - [Event Handling and Dynamic Content](#react-basics)
-  - [Lifecycle and useEffect Hook](#react-basics)
-
-
-
+  - [React Fundamentals](#react-fundamentals)
+    - [Creating Your First Component](#creating-your-first-component)
+    - [JSX and Basic Component Structure](#jsx-and-basic-component-structure)
+    - [Using Components Inside Components](#using-components-inside-components)
+  - [Props and State Usage](#props-and-state-usage)
+    - [Communicating Data with Props](#communicating-data-with-props)
+    - [Managing and Updating State](#managing-and-updating-state)
+    - [Event Handling and State Management](#event-handling-and-state-management)
+  - [Event Handling and Dynamic Content](#event-handling-and-dynamic-content)
+  - [Lifecycle and useEffect Hook](#lifecycle-and-useeffect-hook)
 
 ## React Basics
 
